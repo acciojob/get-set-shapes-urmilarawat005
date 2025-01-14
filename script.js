@@ -1,7 +1,4 @@
 //complete this code
-class Rectangle {}
-
-class Square extends Animal {}
 // Rectangle class
 class Rectangle {
   constructor(width, height) {
